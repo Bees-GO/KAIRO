@@ -1,6 +1,6 @@
 
 ---
-# KAI: Knowledge Advancement & Innovation Token  
+# KAI: Knowledge Advancement & Innovation Ceypto Token  
 ### A Decentralized Science Governance & Incentive Whitepaper (Draft)
 
 ---
