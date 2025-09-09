@@ -40,13 +40,13 @@ Funding flows are transparent, auditable, and participatory.
 ---
 
 ## Tokenomics (KAI)
-- **Initial allocation**: Each PhD receives 1 basic voting right; published authors earn tokens.  
+- **Initial allocation**: Each verified active PhD researcher (has a stable work position in University or institution) receives 1 basic voting right; published authors earn tokens.  
 - **Minting**: Passing proposals/papers → initiators receive tokens equal to vote count.  
 - **Rewards**:  
   - All voters share baseline participation rewards.  
   - Winners split the losing side’s stake.  
   - Contributors, replicators, reviewers also rewarded.  
-- **Burning**: Retractions, fake citations, fraud → tokens burned.  
+- **Burning**: Retractions, fake citations, fraud → tokens burned. This includes the voted token. For example, if someone get 100 token burned due to fraud, all his current and past voting will also be burned in average till 0.   
 
 ---
 
